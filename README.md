@@ -1,7 +1,5 @@
 ### Hello there, welcome to my Github profile.
 
-<br></br>
-    
 My name is Alisson Lima, and I’m an enthusiast of the Data Engineering field, currently studying to become an entry-level Data Engineer.
     
 In this profile you will find the projects developed by me along this journey.
