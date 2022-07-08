@@ -2,12 +2,12 @@
 
 
 ### Hello there, welcome to my Github profile.
-    
-    My name is Alisson Lima, and I’m an enthusiast of the Data Engineering field, currently studying to become an entry-level Data Engineer.
-    
-    In this profile you will find the projects developed by me along this journey.
 
-- 🚀 Currently working as a Data Processing Analyst at [TODOS Empreendimentos](https://cartaodetodos.com.br/).
+<br></br>
+    
+My name is Alisson Lima, and I’m an enthusiast of the Data Engineering field, currently studying to become an entry-level Data Engineer.
+    
+In this profile you will find the projects developed by me along this journey.
 
 <br></br>
 
@@ -18,4 +18,4 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/binariesgoalls/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/https.alisson/)
-[![Gmail Badge](https://img.shields.io/badge/vinicius.andlopes@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ali2slima10@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/ali2slima10@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ali2slima10@gmail.com)
