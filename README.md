@@ -2,7 +2,7 @@
 
 <br />
 
-<p>My name is Alisson Lima, and I’m an enthusiast of the Data Engineering field, currently studying to become an entry-level Data Engineer.
+<p>My name is Alisson Lima, I live in Brazil, on the state of Minas Gerais and I am an enthusiast of the Data Engineering field, currently studying to become an entry-level Data Engineer.
     
 In this profile you will find the projects developed by me along this journey.</p>
 
