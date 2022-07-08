@@ -1,6 +1,3 @@
-<img align="right" src="https://viniciusanl.github.io/icones/Logo%20Vinicius%2025-11-2018.png" width="250"/>
-
-
 ### Hello there, welcome to my Github profile.
 
 <br></br>
