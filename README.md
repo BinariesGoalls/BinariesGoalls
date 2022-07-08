@@ -1,10 +1,12 @@
-### Hello there, welcome to my Github profile.
+<h1>Hello there, welcome to my Github profile.</h1>
 
-My name is Alisson Lima, and I’m an enthusiast of the Data Engineering field, currently studying to become an entry-level Data Engineer.
+<br />
+
+<p>My name is Alisson Lima, and I’m an enthusiast of the Data Engineering field, currently studying to become an entry-level Data Engineer.
     
-In this profile you will find the projects developed by me along this journey.
+In this profile you will find the projects developed by me along this journey.</p>
 
-<br></br>
+<br />
 
 <!-- - 👨🏽‍💻 Linguagens de programação mais utilizadas: 
 --<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusanl&layout=compact&langs_count=16&theme=calm "/>-->
