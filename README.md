@@ -4,7 +4,7 @@
 
 <p>My name is Alisson, I live in Brazil, on the state of Minas Gerais and I am an enthusiast of the Data Engineering field, currently studying to become an entry-level Data Engineer. :technologist:
     
-In this profile you will find the projects developed by me along this journey. :bookmark_tabs:</p>
+In this profile you will find the projects and studies developed by me along this journey. :bookmark_tabs:</p>
 
 <br />
 
